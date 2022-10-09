@@ -8,4 +8,4 @@ Codewars is an educational community for computer programming. On the platform, 
 
 ### Codewars Profile
 
-<a href="https://www.codewars.com/users/tonyruizo">https://www.codewars.com/users/tonyruizo</a>
+[![Codewars](https://www.codewars.com/users/tonyruizo/badges/large)](https://www.codewars.com/users/tonyruizo)
